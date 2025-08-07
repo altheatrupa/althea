@@ -1,0 +1,17 @@
+!DOCTYPE html>
+<ht<ml lang="en">
+<html>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+    <h1>Page 2</h1>
+
+    <a href="../page1.html"< Go to page 1 <br></a>a>
+    <href="../page2.html"> Go to page 2 <br></a>a>
+    <a href="../page3.html"> Go to page 3 <br></a>a>
+    </head>
+    <body>
+
+    </body
+    </html>
